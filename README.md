@@ -51,7 +51,7 @@ Example of script launch on Linux, Python 3.6:
 ```
 $ ~/WORK/wallie/4$ python3 bars.py bars.json 
 ```
-
+Enter your coordiantes (point separator)
 
 Example output:
 ```
